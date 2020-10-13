@@ -1,0 +1,17 @@
+{
+    "name": "Test-App",
+    "repo": "ikedracka/e2e-test-app",
+    "environments": [
+      {
+        "name": "Prod",
+        "id":"",
+        "wp_environment_name": "ikedracka",
+        "secrets": [
+          {
+            "key": "secret",
+            "value": "ikedracka"
+          }
+        ]
+      }
+    ]
+  }
