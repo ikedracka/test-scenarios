@@ -1,4 +1,4 @@
-Feature: App CRUD commands
+Feature: App commands
 
     Scenario: Listing apps after app creation
     Given user created an app {appname}

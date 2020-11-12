@@ -1,4 +1,4 @@
-Feature: Logging
+Feature: Build commands
 
     Scenario: Getting build logs after app creation
     Given user created an app {appname} with env id {envid} and build id {buildid}
